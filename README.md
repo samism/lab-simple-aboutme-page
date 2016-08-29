@@ -1,4 +1,4 @@
-# Lab Simple "About Me" Page
+# Lab - Simple "About Me" Page
 
 The purpose of this lab is to practice some basic CSS as part of understanding the work that web designers do. In this lab, you'll create a simple "About Me" page that includes include some basic CSS.
 
